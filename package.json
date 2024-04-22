@@ -1,24 +1,25 @@
 {
-  "name": "dg289180-one",
+  "name": "angeliadelrie",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eluiced/news.git"
+    "url": "git+https://github.com/dg289180/news.git"
   },
   "license": "ISC", 
+  "main": "index.js", 
   "scripts": {
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-  	"dg289180": "^1.0.0",
-  	"kbiopaa": "^1.0.0",
-	"kbiopaa-one": "^1.0.0",
-  	"de147890": "^1.0.0",
-	"de147890-one": "^1.0.0",
-  	"guzibiji": "^1.0.0"
+  	"maximianomartinson": "^1.0.0"
   },
-  "author": "",
-  "license": "ISC"
+  "devDependencies": {
+    
+  }
+
+
 }
